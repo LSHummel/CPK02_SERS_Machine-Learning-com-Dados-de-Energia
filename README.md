@@ -5,9 +5,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LSHummel/CPK02_SERS_Machine-Learning-com-Dados-de-Energia/blob/main/aula_apis_energia_renovavel_ml.ipynb)
 
-**Autor:** 
-Matheus Pimenta Martini — RM 569400
-
 
 ## Objetivo
 
